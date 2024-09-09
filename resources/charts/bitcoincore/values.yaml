@@ -134,3 +134,6 @@ baseConfig: |
 config: ""
 
 connect: []
+blocksDownload:
+  enabled: false
+  url: "https://storage.googleapis.com/warnet-signet-chains/0014d33b6e11ca95c4edccd8e986434358d79e919730/premined-signet.tar.gz"
